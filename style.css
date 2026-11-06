@@ -1,0 +1,18 @@
+body {
+    background-color: #96bcd2;
+}
+.menu-navigasi {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    background-color: #477aa9;
+    padding: 15px 20px;
+    border-radius: 8px;
+}
+
+.menu-navigasi a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
